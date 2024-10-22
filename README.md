@@ -2,7 +2,7 @@
 
 ## AIM:
 To generate and verify a Message Authentication Code (MAC) for ensuring the integrity and authenticity of a message using a simple XOR operation.
-
+  
 ## DESIGN STEPS:
 ### STEP 1:
 Input a secret key and a message from the user.
